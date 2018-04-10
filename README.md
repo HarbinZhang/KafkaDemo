@@ -1,10 +1,10 @@
 # KafkaDemo
 
 ## Content
-- kafka-examples: Producers & Consumers
+### kafka-examples: Producers & Consumers  
 Single thread producer and multi-consumers(consumer group).
 
-- streams-starter-project
+### streams-starter-project
 WordCount:
 1. Stream from Kafka     < null, “Kafka Kafka Streams”>
 2. MapValues lowercase.  < null, “ … “ >
