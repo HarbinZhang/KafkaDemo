@@ -1,5 +1,8 @@
 # KafkaDemo
 
+## New Updates
+works in the new Mac
+
 ## Content
 ### kafka-examples: Producers & Consumers  
 Single thread producer and multi-consumers(consumer group).
